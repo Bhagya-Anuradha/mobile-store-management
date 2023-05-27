@@ -1,0 +1,5 @@
+admin/EditProduct
+
+brands  117
+
+store   5
